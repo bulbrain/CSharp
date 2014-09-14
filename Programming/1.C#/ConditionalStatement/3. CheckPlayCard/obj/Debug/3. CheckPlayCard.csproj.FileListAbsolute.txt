@@ -1,7 +1,0 @@
-C:\Програмиране\c\ConditionalStatement\3. CheckPlayCard\bin\Debug\_3.CheckPlayCard.exe
-C:\Програмиране\c\ConditionalStatement\3. CheckPlayCard\bin\Debug\_3.CheckPlayCard.pdb
-C:\Програмиране\c\ConditionalStatement\3. CheckPlayCard\obj\Debug\3. CheckPlayCard.csprojResolveAssemblyReference.cache
-C:\Програмиране\c\ConditionalStatement\3. CheckPlayCard\obj\Debug\_3.CheckPlayCard.exe
-C:\Програмиране\c\ConditionalStatement\3. CheckPlayCard\obj\Debug\_3.CheckPlayCard.pdb
-C:\Програмиране\C#\ConditionalStatement\3. CheckPlayCard\obj\Debug\_3.CheckPlayCard.exe
-C:\Програмиране\C#\ConditionalStatement\3. CheckPlayCard\obj\Debug\_3.CheckPlayCard.pdb
