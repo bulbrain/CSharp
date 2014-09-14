@@ -1,3 +1,0 @@
-The difference between C# and .NET
-.NET is an aplication devolpment framework - it contains libraries and a range of funcionality and C# is a strong 
-Object Oriented language. In .NET you have C# and many other language libraries.
