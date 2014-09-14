@@ -1,7 +1,0 @@
-C:\Програмиране\c\ConditionalStatement\8. DigitAsWord\bin\Debug\_8.DigitAsWord.exe
-C:\Програмиране\c\ConditionalStatement\8. DigitAsWord\bin\Debug\_8.DigitAsWord.pdb
-C:\Програмиране\c\ConditionalStatement\8. DigitAsWord\obj\Debug\_8.DigitAsWord.exe
-C:\Програмиране\c\ConditionalStatement\8. DigitAsWord\obj\Debug\_8.DigitAsWord.pdb
-C:\Програмиране\c\ConditionalStatement\8. DigitAsWord\obj\Debug\8. DigitAsWord.csprojResolveAssemblyReference.cache
-C:\Програмиране\C#\ConditionalStatement\8. DigitAsWord\obj\Debug\_8.DigitAsWord.exe
-C:\Програмиране\C#\ConditionalStatement\8. DigitAsWord\obj\Debug\_8.DigitAsWord.pdb
