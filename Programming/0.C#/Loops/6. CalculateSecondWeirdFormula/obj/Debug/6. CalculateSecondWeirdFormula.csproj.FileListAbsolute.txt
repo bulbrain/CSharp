@@ -1,0 +1,7 @@
+C:\Програмиране\c\Loops\6. CalculateSecondWeirdFormula\obj\Debug\6. CalculateSecondWeirdFormula.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\Loops\6. CalculateSecondWeirdFormula\bin\Debug\_6.CalculateSecondWeirdFormula.exe
+C:\Програмиране\c\Loops\6. CalculateSecondWeirdFormula\bin\Debug\_6.CalculateSecondWeirdFormula.pdb
+C:\Програмиране\c\Loops\6. CalculateSecondWeirdFormula\obj\Debug\_6.CalculateSecondWeirdFormula.exe
+C:\Програмиране\c\Loops\6. CalculateSecondWeirdFormula\obj\Debug\_6.CalculateSecondWeirdFormula.pdb
+C:\Програмиране\C#\Loops\6. CalculateSecondWeirdFormula\obj\Debug\_6.CalculateSecondWeirdFormula.exe
+C:\Програмиране\C#\Loops\6. CalculateSecondWeirdFormula\obj\Debug\_6.CalculateSecondWeirdFormula.pdb

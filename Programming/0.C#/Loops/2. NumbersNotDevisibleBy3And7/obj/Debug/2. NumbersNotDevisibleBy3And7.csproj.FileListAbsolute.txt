@@ -1,0 +1,7 @@
+C:\Програмиране\c\Loops\2. NumbersNotDevisibleBy3And7\bin\Debug\_2.NumbersNotDevisibleBy3And7.exe
+C:\Програмиране\c\Loops\2. NumbersNotDevisibleBy3And7\bin\Debug\_2.NumbersNotDevisibleBy3And7.pdb
+C:\Програмиране\c\Loops\2. NumbersNotDevisibleBy3And7\obj\Debug\2. NumbersNotDevisibleBy3And7.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\Loops\2. NumbersNotDevisibleBy3And7\obj\Debug\_2.NumbersNotDevisibleBy3And7.exe
+C:\Програмиране\c\Loops\2. NumbersNotDevisibleBy3And7\obj\Debug\_2.NumbersNotDevisibleBy3And7.pdb
+C:\Програмиране\C#\Loops\2. NumbersNotDevisibleBy3And7\obj\Debug\_2.NumbersNotDevisibleBy3And7.exe
+C:\Програмиране\C#\Loops\2. NumbersNotDevisibleBy3And7\obj\Debug\_2.NumbersNotDevisibleBy3And7.pdb

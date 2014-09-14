@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\4. UnicodeCharacter\bin\Debug\_4.UnicodeCharacter.exe
+C:\Програмиране\c\DataAndVariables\4. UnicodeCharacter\bin\Debug\_4.UnicodeCharacter.pdb
+C:\Програмиране\c\DataAndVariables\4. UnicodeCharacter\obj\Debug\_4.UnicodeCharacter.exe
+C:\Програмиране\c\DataAndVariables\4. UnicodeCharacter\obj\Debug\_4.UnicodeCharacter.pdb
+C:\Програмиране\C#\DataAndVariables\4. UnicodeCharacter\obj\Debug\_4.UnicodeCharacter.exe
+C:\Програмиране\C#\DataAndVariables\4. UnicodeCharacter\obj\Debug\_4.UnicodeCharacter.pdb

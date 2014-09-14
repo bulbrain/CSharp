@@ -1,0 +1,6 @@
+C:\Програмиране\c\ConditionalStatement\4. MultiplicationSign\bin\Debug\_4.MultiplicationSign.exe
+C:\Програмиране\c\ConditionalStatement\4. MultiplicationSign\bin\Debug\_4.MultiplicationSign.pdb
+C:\Програмиране\c\ConditionalStatement\4. MultiplicationSign\obj\Debug\_4.MultiplicationSign.exe
+C:\Програмиране\c\ConditionalStatement\4. MultiplicationSign\obj\Debug\_4.MultiplicationSign.pdb
+C:\Програмиране\C#\ConditionalStatement\4. MultiplicationSign\obj\Debug\_4.MultiplicationSign.exe
+C:\Програмиране\C#\ConditionalStatement\4. MultiplicationSign\obj\Debug\_4.MultiplicationSign.pdb

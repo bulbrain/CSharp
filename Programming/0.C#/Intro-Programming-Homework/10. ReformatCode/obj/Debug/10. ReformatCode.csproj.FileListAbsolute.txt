@@ -1,0 +1,6 @@
+C:\Програмиране\c\Intro-Programming-Homework\10. ReformatCode\bin\Debug\_10.ReformatCode.exe
+C:\Програмиране\c\Intro-Programming-Homework\10. ReformatCode\bin\Debug\_10.ReformatCode.pdb
+C:\Програмиране\c\Intro-Programming-Homework\10. ReformatCode\obj\Debug\_10.ReformatCode.exe
+C:\Програмиране\c\Intro-Programming-Homework\10. ReformatCode\obj\Debug\_10.ReformatCode.pdb
+C:\Програмиране\C#\Intro-Programming-Homework\10. ReformatCode\obj\Debug\_10.ReformatCode.exe
+C:\Програмиране\C#\Intro-Programming-Homework\10. ReformatCode\obj\Debug\_10.ReformatCode.pdb

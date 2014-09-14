@@ -1,0 +1,6 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\2. GravitationOnTheMoon\bin\Debug\_2.GravitationOnTheMoon.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\2. GravitationOnTheMoon\bin\Debug\_2.GravitationOnTheMoon.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\2. GravitationOnTheMoon\obj\Debug\_2.GravitationOnTheMoon.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\2. GravitationOnTheMoon\obj\Debug\_2.GravitationOnTheMoon.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\2. GravitationOnTheMoon\obj\Debug\_2.GravitationOnTheMoon.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\2. GravitationOnTheMoon\obj\Debug\_2.GravitationOnTheMoon.pdb

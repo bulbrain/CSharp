@@ -1,0 +1,6 @@
+C:\Програмиране\c\Intro-Programming-Homework\7. FirstAndLastName\bin\Debug\_7.FirstAndLastName.exe
+C:\Програмиране\c\Intro-Programming-Homework\7. FirstAndLastName\bin\Debug\_7.FirstAndLastName.pdb
+C:\Програмиране\c\Intro-Programming-Homework\7. FirstAndLastName\obj\Debug\_7.FirstAndLastName.exe
+C:\Програмиране\c\Intro-Programming-Homework\7. FirstAndLastName\obj\Debug\_7.FirstAndLastName.pdb
+C:\Програмиране\C#\Intro-Programming-Homework\7. FirstAndLastName\obj\Debug\_7.FirstAndLastName.exe
+C:\Програмиране\C#\Intro-Programming-Homework\7. FirstAndLastName\obj\Debug\_7.FirstAndLastName.pdb

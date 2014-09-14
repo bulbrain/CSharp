@@ -1,0 +1,7 @@
+C:\Програмиране\c\ConsoleInputOutput\4. NumberComparer\bin\Debug\_4.NumberComparer.exe
+C:\Програмиране\c\ConsoleInputOutput\4. NumberComparer\bin\Debug\_4.NumberComparer.pdb
+C:\Програмиране\c\ConsoleInputOutput\4. NumberComparer\obj\Debug\4. NumberComparer.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\ConsoleInputOutput\4. NumberComparer\obj\Debug\_4.NumberComparer.exe
+C:\Програмиране\c\ConsoleInputOutput\4. NumberComparer\obj\Debug\_4.NumberComparer.pdb
+C:\Програмиране\C#\ConsoleInputOutput\4. NumberComparer\obj\Debug\_4.NumberComparer.exe
+C:\Програмиране\C#\ConsoleInputOutput\4. NumberComparer\obj\Debug\_4.NumberComparer.pdb

@@ -1,0 +1,6 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\9. Trapezoids\bin\Debug\_9.Trapezoids.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\9. Trapezoids\bin\Debug\_9.Trapezoids.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\9. Trapezoids\obj\Debug\_9.Trapezoids.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\9. Trapezoids\obj\Debug\_9.Trapezoids.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\9. Trapezoids\obj\Debug\_9.Trapezoids.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\9. Trapezoids\obj\Debug\_9.Trapezoids.pdb

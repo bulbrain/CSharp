@@ -1,0 +1,4 @@
+C:\Програмиране\c\Loops\14. DecimalToBinary\bin\Debug\_14.DecimalToBinary.exe
+C:\Програмиране\c\Loops\14. DecimalToBinary\bin\Debug\_14.DecimalToBinary.pdb
+C:\Програмиране\c\Loops\14. DecimalToBinary\obj\Debug\_14.DecimalToBinary.exe
+C:\Програмиране\c\Loops\14. DecimalToBinary\obj\Debug\_14.DecimalToBinary.pdb

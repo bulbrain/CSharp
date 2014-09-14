@@ -1,0 +1,7 @@
+C:\Програмиране\c\ConsoleInputOutput\3. CirclePerimeterArea\bin\Debug\_3.CirclePerimeterArea.exe
+C:\Програмиране\c\ConsoleInputOutput\3. CirclePerimeterArea\bin\Debug\_3.CirclePerimeterArea.pdb
+C:\Програмиране\c\ConsoleInputOutput\3. CirclePerimeterArea\obj\Debug\3. CirclePerimeterArea.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\ConsoleInputOutput\3. CirclePerimeterArea\obj\Debug\_3.CirclePerimeterArea.exe
+C:\Програмиране\c\ConsoleInputOutput\3. CirclePerimeterArea\obj\Debug\_3.CirclePerimeterArea.pdb
+C:\Програмиране\C#\ConsoleInputOutput\3. CirclePerimeterArea\obj\Debug\_3.CirclePerimeterArea.exe
+C:\Програмиране\C#\ConsoleInputOutput\3. CirclePerimeterArea\obj\Debug\_3.CirclePerimeterArea.pdb

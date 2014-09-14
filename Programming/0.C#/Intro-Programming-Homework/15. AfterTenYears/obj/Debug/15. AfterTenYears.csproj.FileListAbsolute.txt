@@ -1,0 +1,6 @@
+C:\Програмиране\c\Intro-Programming-Homework\15. AfterTenYears\bin\Debug\_15.AfterTenYears.exe
+C:\Програмиране\c\Intro-Programming-Homework\15. AfterTenYears\bin\Debug\_15.AfterTenYears.pdb
+C:\Програмиране\c\Intro-Programming-Homework\15. AfterTenYears\obj\Debug\_15.AfterTenYears.exe
+C:\Програмиране\c\Intro-Programming-Homework\15. AfterTenYears\obj\Debug\_15.AfterTenYears.pdb
+C:\Програмиране\C#\Intro-Programming-Homework\15. AfterTenYears\obj\Debug\_15.AfterTenYears.exe
+C:\Програмиране\C#\Intro-Programming-Homework\15. AfterTenYears\obj\Debug\_15.AfterTenYears.pdb

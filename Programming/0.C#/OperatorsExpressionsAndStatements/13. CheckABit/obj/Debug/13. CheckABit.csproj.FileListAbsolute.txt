@@ -1,0 +1,7 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\13. CheckABit\bin\Debug\_13.CheckABit.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\13. CheckABit\bin\Debug\_13.CheckABit.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\13. CheckABit\obj\Debug\13. CheckABit.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\OperatorsExpressionsAndStatements\13. CheckABit\obj\Debug\_13.CheckABit.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\13. CheckABit\obj\Debug\_13.CheckABit.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\13. CheckABit\obj\Debug\_13.CheckABit.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\13. CheckABit\obj\Debug\_13.CheckABit.pdb

@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\7. QuotesInStrings\bin\Debug\_7.QuotesInStrings.exe
+C:\Програмиране\c\DataAndVariables\7. QuotesInStrings\bin\Debug\_7.QuotesInStrings.pdb
+C:\Програмиране\c\DataAndVariables\7. QuotesInStrings\obj\Debug\_7.QuotesInStrings.exe
+C:\Програмиране\c\DataAndVariables\7. QuotesInStrings\obj\Debug\_7.QuotesInStrings.pdb
+C:\Програмиране\C#\DataAndVariables\7. QuotesInStrings\obj\Debug\_7.QuotesInStrings.exe
+C:\Програмиране\C#\DataAndVariables\7. QuotesInStrings\obj\Debug\_7.QuotesInStrings.pdb

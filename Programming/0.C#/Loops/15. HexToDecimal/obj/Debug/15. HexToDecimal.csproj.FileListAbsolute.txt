@@ -1,0 +1,1 @@
+C:\Програмиране\c\Loops\15. HexToDecimal\bin\Debug\_15.HexToDecimal.exe.config

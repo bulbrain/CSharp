@@ -1,0 +1,4 @@
+C:\Програмиране\c\Loops\11. RandomNumbers\bin\Debug\_11.RandomNumbers.exe
+C:\Програмиране\c\Loops\11. RandomNumbers\bin\Debug\_11.RandomNumbers.pdb
+C:\Програмиране\c\Loops\11. RandomNumbers\obj\Debug\_11.RandomNumbers.exe
+C:\Програмиране\c\Loops\11. RandomNumbers\obj\Debug\_11.RandomNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\1. OddOrEven\bin\Debug\_1.OddOrEven.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\1. OddOrEven\bin\Debug\_1.OddOrEven.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\1. OddOrEven\obj\Debug\1. OddOrEven.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\OperatorsExpressionsAndStatements\1. OddOrEven\obj\Debug\_1.OddOrEven.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\1. OddOrEven\obj\Debug\_1.OddOrEven.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\1. OddOrEven\obj\Debug\_1.OddOrEven.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\1. OddOrEven\obj\Debug\_1.OddOrEven.pdb

@@ -1,0 +1,6 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\12. BitFromInteger\bin\Debug\_12.BitFromInteger.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\12. BitFromInteger\bin\Debug\_12.BitFromInteger.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\12. BitFromInteger\obj\Debug\_12.BitFromInteger.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\12. BitFromInteger\obj\Debug\_12.BitFromInteger.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\12. BitFromInteger\obj\Debug\_12.BitFromInteger.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\12. BitFromInteger\obj\Debug\_12.BitFromInteger.pdb

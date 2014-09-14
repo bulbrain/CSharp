@@ -1,0 +1,7 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\14. ModifyABit\bin\Debug\_14.ModifyABit.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\14. ModifyABit\bin\Debug\_14.ModifyABit.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\14. ModifyABit\obj\Debug\14. ModifyABit.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\OperatorsExpressionsAndStatements\14. ModifyABit\obj\Debug\_14.ModifyABit.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\14. ModifyABit\obj\Debug\_14.ModifyABit.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\14. ModifyABit\obj\Debug\_14.ModifyABit.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\14. ModifyABit\obj\Debug\_14.ModifyABit.pdb

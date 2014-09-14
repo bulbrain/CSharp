@@ -1,0 +1,7 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\10. InsideCircleOutsideTriangle\bin\Debug\_10.InsideCircleOutsideTriangle.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\10. InsideCircleOutsideTriangle\bin\Debug\_10.InsideCircleOutsideTriangle.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\10. InsideCircleOutsideTriangle\obj\Debug\10. InsideCircleOutsideTriangle.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\OperatorsExpressionsAndStatements\10. InsideCircleOutsideTriangle\obj\Debug\_10.InsideCircleOutsideTriangle.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\10. InsideCircleOutsideTriangle\obj\Debug\_10.InsideCircleOutsideTriangle.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\10. InsideCircleOutsideTriangle\obj\Debug\_10.InsideCircleOutsideTriangle.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\10. InsideCircleOutsideTriangle\obj\Debug\_10.InsideCircleOutsideTriangle.pdb

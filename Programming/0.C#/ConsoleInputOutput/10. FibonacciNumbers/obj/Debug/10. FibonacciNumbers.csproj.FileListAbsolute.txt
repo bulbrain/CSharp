@@ -1,0 +1,7 @@
+C:\Програмиране\c\ConsoleInputOutput\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.exe
+C:\Програмиране\c\ConsoleInputOutput\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.pdb
+C:\Програмиране\c\ConsoleInputOutput\10. FibonacciNumbers\obj\Debug\10. FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\ConsoleInputOutput\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.exe
+C:\Програмиране\c\ConsoleInputOutput\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.pdb
+C:\Програмиране\C#\ConsoleInputOutput\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.exe
+C:\Програмиране\C#\ConsoleInputOutput\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.pdb

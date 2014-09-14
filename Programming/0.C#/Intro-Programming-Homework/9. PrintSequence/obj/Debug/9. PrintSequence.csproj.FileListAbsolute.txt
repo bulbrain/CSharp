@@ -1,0 +1,6 @@
+C:\Програмиране\c\Intro-Programming-Homework\9. PrintSequence\bin\Debug\_9.PrintSequence.exe
+C:\Програмиране\c\Intro-Programming-Homework\9. PrintSequence\bin\Debug\_9.PrintSequence.pdb
+C:\Програмиране\c\Intro-Programming-Homework\9. PrintSequence\obj\Debug\_9.PrintSequence.exe
+C:\Програмиране\c\Intro-Programming-Homework\9. PrintSequence\obj\Debug\_9.PrintSequence.pdb
+C:\Програмиране\C#\Intro-Programming-Homework\9. PrintSequence\obj\Debug\_9.PrintSequence.exe
+C:\Програмиране\C#\Intro-Programming-Homework\9. PrintSequence\obj\Debug\_9.PrintSequence.pdb

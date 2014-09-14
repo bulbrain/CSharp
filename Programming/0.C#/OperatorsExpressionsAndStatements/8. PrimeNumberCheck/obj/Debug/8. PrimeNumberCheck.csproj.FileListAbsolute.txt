@@ -1,0 +1,7 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\8. PrimeNumberCheck\bin\Debug\_8.PrimeNumberCheck.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\8. PrimeNumberCheck\bin\Debug\_8.PrimeNumberCheck.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\8. PrimeNumberCheck\obj\Debug\8. PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\OperatorsExpressionsAndStatements\8. PrimeNumberCheck\obj\Debug\_8.PrimeNumberCheck.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\8. PrimeNumberCheck\obj\Debug\_8.PrimeNumberCheck.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\8. PrimeNumberCheck\obj\Debug\_8.PrimeNumberCheck.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\8. PrimeNumberCheck\obj\Debug\_8.PrimeNumberCheck.pdb

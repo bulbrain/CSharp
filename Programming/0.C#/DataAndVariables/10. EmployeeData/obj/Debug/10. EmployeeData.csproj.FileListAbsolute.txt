@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+C:\Програмиране\c\DataAndVariables\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+C:\Програмиране\c\DataAndVariables\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+C:\Програмиране\c\DataAndVariables\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb
+C:\Програмиране\C#\DataAndVariables\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+C:\Програмиране\C#\DataAndVariables\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb

@@ -1,0 +1,5 @@
+C:\Програмиране\c\Loops\16. DecimalToHex\bin\Debug\_16.DecimalToHex.exe.config
+C:\Програмиране\c\Loops\16. DecimalToHex\bin\Debug\_16.DecimalToHex.exe
+C:\Програмиране\c\Loops\16. DecimalToHex\bin\Debug\_16.DecimalToHex.pdb
+C:\Програмиране\c\Loops\16. DecimalToHex\obj\Debug\_16.DecimalToHex.exe
+C:\Програмиране\c\Loops\16. DecimalToHex\obj\Debug\_16.DecimalToHex.pdb

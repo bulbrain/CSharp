@@ -1,0 +1,7 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\4. Rectangles\bin\Debug\_4.Rectangles.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\4. Rectangles\bin\Debug\_4.Rectangles.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\4. Rectangles\obj\Debug\4. Rectangles.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\OperatorsExpressionsAndStatements\4. Rectangles\obj\Debug\_4.Rectangles.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\4. Rectangles\obj\Debug\_4.Rectangles.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\4. Rectangles\obj\Debug\_4.Rectangles.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\4. Rectangles\obj\Debug\_4.Rectangles.pdb

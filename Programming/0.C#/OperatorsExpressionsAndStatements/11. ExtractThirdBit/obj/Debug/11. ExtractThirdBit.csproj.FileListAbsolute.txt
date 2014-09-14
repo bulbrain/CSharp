@@ -1,0 +1,7 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\11. ExtractThirdBit\bin\Debug\_11.ExtractThirdBit.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\11. ExtractThirdBit\bin\Debug\_11.ExtractThirdBit.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\11. ExtractThirdBit\obj\Debug\11. ExtractThirdBit.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\OperatorsExpressionsAndStatements\11. ExtractThirdBit\obj\Debug\_11.ExtractThirdBit.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\11. ExtractThirdBit\obj\Debug\_11.ExtractThirdBit.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\11. ExtractThirdBit\obj\Debug\_11.ExtractThirdBit.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\11. ExtractThirdBit\obj\Debug\_11.ExtractThirdBit.pdb

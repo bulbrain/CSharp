@@ -1,0 +1,10 @@
+Microsoft Visual Studio - It covers languages like C++, C# and VB.NER. Its designed for windows applications and other
+and you can develop for Windws x86, Windws RT and Windows Phone. 
+Oracle Netbeans 7 - Its designed for Java but other languages like C/C++, Ruby, HTML and PHP are supported too. Its free
+and extremely extensible via its plugin-centric design.
+Eclipse - Its quite comprehensive and similar to Netbeans including its use of Java and plugins but it comes with a wide
+variety if flavors including a comparison page to view the differences between its versions and its also free.
+Code::Blocks - Is an exceptionally light-size IDE, yet quite funcional and feature-rich. It also takes adventage of multi
+core compiling allowing you to do the job faster and its free.
+Aptana Studio - Its designed for web and scripting languages like PHP, Ruby and Python as well as the likes of Adobe AIR.
+Even the IDE its avaible like a plugin for Eclipse so you can combine then its also free.

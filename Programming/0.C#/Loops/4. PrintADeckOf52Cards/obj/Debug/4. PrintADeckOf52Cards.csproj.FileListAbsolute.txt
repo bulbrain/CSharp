@@ -1,0 +1,7 @@
+C:\Програмиране\c\Loops\4. PrintADeckOf52Cards\obj\Debug\4. PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\Loops\4. PrintADeckOf52Cards\bin\Debug\_4.PrintADeckOf52Cards.exe
+C:\Програмиране\c\Loops\4. PrintADeckOf52Cards\bin\Debug\_4.PrintADeckOf52Cards.pdb
+C:\Програмиране\c\Loops\4. PrintADeckOf52Cards\obj\Debug\_4.PrintADeckOf52Cards.exe
+C:\Програмиране\c\Loops\4. PrintADeckOf52Cards\obj\Debug\_4.PrintADeckOf52Cards.pdb
+C:\Програмиране\C#\Loops\4. PrintADeckOf52Cards\obj\Debug\_4.PrintADeckOf52Cards.exe
+C:\Програмиране\C#\Loops\4. PrintADeckOf52Cards\obj\Debug\_4.PrintADeckOf52Cards.pdb

@@ -1,0 +1,7 @@
+C:\Програмиране\c\ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.exe
+C:\Програмиране\c\ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.pdb
+C:\Програмиране\c\ConsoleInputOutput\6. QuadraticEquation\obj\Debug\6. QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\ConsoleInputOutput\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.exe
+C:\Програмиране\c\ConsoleInputOutput\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.pdb
+C:\Програмиране\C#\ConsoleInputOutput\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.exe
+C:\Програмиране\C#\ConsoleInputOutput\6. QuadraticEquation\obj\Debug\_6.QuadraticEquation.pdb

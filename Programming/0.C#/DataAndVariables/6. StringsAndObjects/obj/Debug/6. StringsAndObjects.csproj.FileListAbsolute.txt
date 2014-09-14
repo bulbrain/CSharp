@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\6. StringsAndObjects\bin\Debug\_6.StringsAndObjects.exe
+C:\Програмиране\c\DataAndVariables\6. StringsAndObjects\bin\Debug\_6.StringsAndObjects.pdb
+C:\Програмиране\c\DataAndVariables\6. StringsAndObjects\obj\Debug\_6.StringsAndObjects.exe
+C:\Програмиране\c\DataAndVariables\6. StringsAndObjects\obj\Debug\_6.StringsAndObjects.pdb
+C:\Програмиране\C#\DataAndVariables\6. StringsAndObjects\obj\Debug\_6.StringsAndObjects.exe
+C:\Програмиране\C#\DataAndVariables\6. StringsAndObjects\obj\Debug\_6.StringsAndObjects.pdb

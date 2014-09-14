@@ -1,0 +1,7 @@
+C:\Програмиране\c\Loops\1. NumbersFromOneToN\bin\Debug\_1.NumbersFromOneToN.exe
+C:\Програмиране\c\Loops\1. NumbersFromOneToN\bin\Debug\_1.NumbersFromOneToN.pdb
+C:\Програмиране\c\Loops\1. NumbersFromOneToN\obj\Debug\1. NumbersFromOneToN.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\Loops\1. NumbersFromOneToN\obj\Debug\_1.NumbersFromOneToN.exe
+C:\Програмиране\c\Loops\1. NumbersFromOneToN\obj\Debug\_1.NumbersFromOneToN.pdb
+C:\Програмиране\C#\Loops\1. NumbersFromOneToN\obj\Debug\_1.NumbersFromOneToN.exe
+C:\Програмиране\C#\Loops\1. NumbersFromOneToN\obj\Debug\_1.NumbersFromOneToN.pdb

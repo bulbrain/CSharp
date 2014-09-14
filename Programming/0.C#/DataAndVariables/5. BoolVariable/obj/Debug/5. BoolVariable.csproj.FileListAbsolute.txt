@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\5. BoolVariable\bin\Debug\_5.BoolVariable.exe
+C:\Програмиране\c\DataAndVariables\5. BoolVariable\bin\Debug\_5.BoolVariable.pdb
+C:\Програмиране\c\DataAndVariables\5. BoolVariable\obj\Debug\_5.BoolVariable.exe
+C:\Програмиране\c\DataAndVariables\5. BoolVariable\obj\Debug\_5.BoolVariable.pdb
+C:\Програмиране\C#\DataAndVariables\5. BoolVariable\obj\Debug\_5.BoolVariable.exe
+C:\Програмиране\C#\DataAndVariables\5. BoolVariable\obj\Debug\_5.BoolVariable.pdb

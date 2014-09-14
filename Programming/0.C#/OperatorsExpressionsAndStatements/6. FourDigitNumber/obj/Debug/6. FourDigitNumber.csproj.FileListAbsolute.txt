@@ -1,0 +1,7 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\6. FourDigitNumber\bin\Debug\_6.FourDigitNumber.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\6. FourDigitNumber\bin\Debug\_6.FourDigitNumber.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\6. FourDigitNumber\obj\Debug\6. FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\OperatorsExpressionsAndStatements\6. FourDigitNumber\obj\Debug\_6.FourDigitNumber.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\6. FourDigitNumber\obj\Debug\_6.FourDigitNumber.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\6. FourDigitNumber\obj\Debug\_6.FourDigitNumber.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\6. FourDigitNumber\obj\Debug\_6.FourDigitNumber.pdb

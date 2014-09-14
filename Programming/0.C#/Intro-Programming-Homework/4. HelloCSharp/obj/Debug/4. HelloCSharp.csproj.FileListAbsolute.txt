@@ -1,0 +1,7 @@
+C:\Програмиране\c\Intro-Programming-Homework\4. HelloCSharp\bin\Debug\_4.HelloCSharp.exe
+C:\Програмиране\c\Intro-Programming-Homework\4. HelloCSharp\bin\Debug\_4.HelloCSharp.pdb
+C:\Програмиране\c\Intro-Programming-Homework\4. HelloCSharp\obj\Debug\4. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\Intro-Programming-Homework\4. HelloCSharp\obj\Debug\_4.HelloCSharp.exe
+C:\Програмиране\c\Intro-Programming-Homework\4. HelloCSharp\obj\Debug\_4.HelloCSharp.pdb
+C:\Програмиране\C#\Intro-Programming-Homework\4. HelloCSharp\obj\Debug\_4.HelloCSharp.exe
+C:\Програмиране\C#\Intro-Programming-Homework\4. HelloCSharp\obj\Debug\_4.HelloCSharp.pdb

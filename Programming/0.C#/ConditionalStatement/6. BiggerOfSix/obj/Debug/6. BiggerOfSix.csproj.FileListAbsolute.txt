@@ -1,0 +1,6 @@
+C:\Програмиране\c\ConditionalStatement\6. BiggerOfSix\bin\Debug\_6.BiggerOfSix.exe
+C:\Програмиране\c\ConditionalStatement\6. BiggerOfSix\bin\Debug\_6.BiggerOfSix.pdb
+C:\Програмиране\c\ConditionalStatement\6. BiggerOfSix\obj\Debug\_6.BiggerOfSix.exe
+C:\Програмиране\c\ConditionalStatement\6. BiggerOfSix\obj\Debug\_6.BiggerOfSix.pdb
+C:\Програмиране\C#\ConditionalStatement\6. BiggerOfSix\obj\Debug\_6.BiggerOfSix.exe
+C:\Програмиране\C#\ConditionalStatement\6. BiggerOfSix\obj\Debug\_6.BiggerOfSix.pdb

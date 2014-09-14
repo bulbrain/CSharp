@@ -1,0 +1,4 @@
+C:\Програмиране\c\Loops\8. CatalanNumbers\bin\Debug\_8.CatalanNumbers.exe
+C:\Програмиране\c\Loops\8. CatalanNumbers\bin\Debug\_8.CatalanNumbers.pdb
+C:\Програмиране\c\Loops\8. CatalanNumbers\obj\Debug\_8.CatalanNumbers.exe
+C:\Програмиране\c\Loops\8. CatalanNumbers\obj\Debug\_8.CatalanNumbers.pdb

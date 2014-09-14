@@ -1,0 +1,7 @@
+C:\Програмиране\c\DataAndVariables\1. DeclareVariables\obj\Debug\1. DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\DataAndVariables\1. DeclareVariables\bin\Debug\_1.DeclareVariables.exe
+C:\Програмиране\c\DataAndVariables\1. DeclareVariables\bin\Debug\_1.DeclareVariables.pdb
+C:\Програмиране\c\DataAndVariables\1. DeclareVariables\obj\Debug\_1.DeclareVariables.exe
+C:\Програмиране\c\DataAndVariables\1. DeclareVariables\obj\Debug\_1.DeclareVariables.pdb
+C:\Програмиране\C#\DataAndVariables\1. DeclareVariables\obj\Debug\_1.DeclareVariables.exe
+C:\Програмиране\C#\DataAndVariables\1. DeclareVariables\obj\Debug\_1.DeclareVariables.pdb

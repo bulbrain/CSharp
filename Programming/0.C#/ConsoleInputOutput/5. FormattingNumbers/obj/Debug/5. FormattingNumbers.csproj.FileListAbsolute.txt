@@ -1,0 +1,7 @@
+C:\Програмиране\c\ConsoleInputOutput\5. FormattingNumbers\bin\Debug\_5.FormattingNumbers.exe
+C:\Програмиране\c\ConsoleInputOutput\5. FormattingNumbers\bin\Debug\_5.FormattingNumbers.pdb
+C:\Програмиране\c\ConsoleInputOutput\5. FormattingNumbers\obj\Debug\5. FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\ConsoleInputOutput\5. FormattingNumbers\obj\Debug\_5.FormattingNumbers.exe
+C:\Програмиране\c\ConsoleInputOutput\5. FormattingNumbers\obj\Debug\_5.FormattingNumbers.pdb
+C:\Програмиране\C#\ConsoleInputOutput\5. FormattingNumbers\obj\Debug\_5.FormattingNumbers.exe
+C:\Програмиране\C#\ConsoleInputOutput\5. FormattingNumbers\obj\Debug\_5.FormattingNumbers.pdb

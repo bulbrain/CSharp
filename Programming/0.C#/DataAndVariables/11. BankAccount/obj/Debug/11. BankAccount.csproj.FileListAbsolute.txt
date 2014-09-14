@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\11. BankAccount\bin\Debug\_11.BankAccount.exe
+C:\Програмиране\c\DataAndVariables\11. BankAccount\bin\Debug\_11.BankAccount.pdb
+C:\Програмиране\c\DataAndVariables\11. BankAccount\obj\Debug\_11.BankAccount.exe
+C:\Програмиране\c\DataAndVariables\11. BankAccount\obj\Debug\_11.BankAccount.pdb
+C:\Програмиране\C#\DataAndVariables\11. BankAccount\obj\Debug\_11.BankAccount.exe
+C:\Програмиране\C#\DataAndVariables\11. BankAccount\obj\Debug\_11.BankAccount.pdb

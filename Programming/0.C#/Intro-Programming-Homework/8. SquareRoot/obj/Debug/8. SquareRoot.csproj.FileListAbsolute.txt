@@ -1,0 +1,6 @@
+C:\Програмиране\c\Intro-Programming-Homework\8. SquareRoot\bin\Debug\_8.SquareRoot.exe
+C:\Програмиране\c\Intro-Programming-Homework\8. SquareRoot\bin\Debug\_8.SquareRoot.pdb
+C:\Програмиране\c\Intro-Programming-Homework\8. SquareRoot\obj\Debug\_8.SquareRoot.exe
+C:\Програмиране\c\Intro-Programming-Homework\8. SquareRoot\obj\Debug\_8.SquareRoot.pdb
+C:\Програмиране\C#\Intro-Programming-Homework\8. SquareRoot\obj\Debug\_8.SquareRoot.exe
+C:\Програмиране\C#\Intro-Programming-Homework\8. SquareRoot\obj\Debug\_8.SquareRoot.pdb

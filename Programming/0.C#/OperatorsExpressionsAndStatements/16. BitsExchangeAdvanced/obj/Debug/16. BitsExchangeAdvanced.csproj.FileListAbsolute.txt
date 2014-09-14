@@ -1,0 +1,7 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\16. BitsExchangeAdvanced\bin\Debug\_16.BitsExchangeAdvanced.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\16. BitsExchangeAdvanced\bin\Debug\_16.BitsExchangeAdvanced.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\16. BitsExchangeAdvanced\obj\Debug\16. BitsExchangeAdvanced.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\OperatorsExpressionsAndStatements\16. BitsExchangeAdvanced\obj\Debug\_16.BitsExchangeAdvanced.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\16. BitsExchangeAdvanced\obj\Debug\_16.BitsExchangeAdvanced.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\16. BitsExchangeAdvanced\obj\Debug\_16.BitsExchangeAdvanced.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\16. BitsExchangeAdvanced\obj\Debug\_16.BitsExchangeAdvanced.pdb

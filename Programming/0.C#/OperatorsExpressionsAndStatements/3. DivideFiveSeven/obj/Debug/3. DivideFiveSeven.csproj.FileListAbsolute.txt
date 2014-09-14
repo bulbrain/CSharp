@@ -1,0 +1,6 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\3. DivideFiveSeven\bin\Debug\_3.DivideFiveSeven.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\3. DivideFiveSeven\bin\Debug\_3.DivideFiveSeven.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\3. DivideFiveSeven\obj\Debug\_3.DivideFiveSeven.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\3. DivideFiveSeven\obj\Debug\_3.DivideFiveSeven.pdb
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\3. DivideFiveSeven\obj\Debug\_3.DivideFiveSeven.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\3. DivideFiveSeven\obj\Debug\_3.DivideFiveSeven.pdb

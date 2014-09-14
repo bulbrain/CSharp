@@ -1,0 +1,6 @@
+C:\Програмиране\c\Intro-Programming-Homework\5. PrintMyName\bin\Debug\_5.PrintMyName.exe
+C:\Програмиране\c\Intro-Programming-Homework\5. PrintMyName\bin\Debug\_5.PrintMyName.pdb
+C:\Програмиране\c\Intro-Programming-Homework\5. PrintMyName\obj\Debug\_5.PrintMyName.exe
+C:\Програмиране\c\Intro-Programming-Homework\5. PrintMyName\obj\Debug\_5.PrintMyName.pdb
+C:\Програмиране\C#\Intro-Programming-Homework\5. PrintMyName\obj\Debug\_5.PrintMyName.exe
+C:\Програмиране\C#\Intro-Programming-Homework\5. PrintMyName\obj\Debug\_5.PrintMyName.pdb

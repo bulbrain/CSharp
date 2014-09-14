@@ -1,0 +1,6 @@
+C:\Програмиране\c\Intro-Programming-Homework\6. PrintNumbers\bin\Debug\_6.PrintNumbers.exe
+C:\Програмиране\c\Intro-Programming-Homework\6. PrintNumbers\bin\Debug\_6.PrintNumbers.pdb
+C:\Програмиране\c\Intro-Programming-Homework\6. PrintNumbers\obj\Debug\_6.PrintNumbers.exe
+C:\Програмиране\c\Intro-Programming-Homework\6. PrintNumbers\obj\Debug\_6.PrintNumbers.pdb
+C:\Програмиране\C#\Intro-Programming-Homework\6. PrintNumbers\obj\Debug\_6.PrintNumbers.exe
+C:\Програмиране\C#\Intro-Programming-Homework\6. PrintNumbers\obj\Debug\_6.PrintNumbers.pdb

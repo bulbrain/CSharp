@@ -1,0 +1,6 @@
+C:\Програмиране\c\ConsoleInputOutput\2. PrintCompanyInformation\bin\Debug\_2.PrintCompanyInformation.exe
+C:\Програмиране\c\ConsoleInputOutput\2. PrintCompanyInformation\bin\Debug\_2.PrintCompanyInformation.pdb
+C:\Програмиране\c\ConsoleInputOutput\2. PrintCompanyInformation\obj\Debug\_2.PrintCompanyInformation.exe
+C:\Програмиране\c\ConsoleInputOutput\2. PrintCompanyInformation\obj\Debug\_2.PrintCompanyInformation.pdb
+C:\Програмиране\C#\ConsoleInputOutput\2. PrintCompanyInformation\obj\Debug\_2.PrintCompanyInformation.exe
+C:\Програмиране\C#\ConsoleInputOutput\2. PrintCompanyInformation\obj\Debug\_2.PrintCompanyInformation.pdb

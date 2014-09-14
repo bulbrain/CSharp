@@ -1,0 +1,7 @@
+C:\Програмиране\c\DataAndVariables\2. FloatDouble\bin\Debug\_2.FloatDouble.exe
+C:\Програмиране\c\DataAndVariables\2. FloatDouble\bin\Debug\_2.FloatDouble.pdb
+C:\Програмиране\c\DataAndVariables\2. FloatDouble\obj\Debug\_2.FloatDouble.exe
+C:\Програмиране\c\DataAndVariables\2. FloatDouble\obj\Debug\_2.FloatDouble.pdb
+C:\Програмиране\c\DataAndVariables\2. FloatDouble\obj\Debug\2. FloatDouble.csprojResolveAssemblyReference.cache
+C:\Програмиране\C#\DataAndVariables\2. FloatDouble\obj\Debug\_2.FloatDouble.exe
+C:\Програмиране\C#\DataAndVariables\2. FloatDouble\obj\Debug\_2.FloatDouble.pdb

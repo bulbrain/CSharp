@@ -1,0 +1,7 @@
+C:\Програмиране\c\Loops\7. CalculateFormula\bin\Debug\_7.CalculateFormula.exe
+C:\Програмиране\c\Loops\7. CalculateFormula\bin\Debug\_7.CalculateFormula.pdb
+C:\Програмиране\c\Loops\7. CalculateFormula\obj\Debug\7. CalculateFormula.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\Loops\7. CalculateFormula\obj\Debug\_7.CalculateFormula.exe
+C:\Програмиране\c\Loops\7. CalculateFormula\obj\Debug\_7.CalculateFormula.pdb
+C:\Програмиране\C#\Loops\7. CalculateFormula\obj\Debug\_7.CalculateFormula.exe
+C:\Програмиране\C#\Loops\7. CalculateFormula\obj\Debug\_7.CalculateFormula.pdb

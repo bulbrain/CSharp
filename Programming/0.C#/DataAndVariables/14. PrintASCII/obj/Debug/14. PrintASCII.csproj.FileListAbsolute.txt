@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\14. PrintASCII\bin\Debug\_14.PrintASCII.exe
+C:\Програмиране\c\DataAndVariables\14. PrintASCII\bin\Debug\_14.PrintASCII.pdb
+C:\Програмиране\c\DataAndVariables\14. PrintASCII\obj\Debug\_14.PrintASCII.exe
+C:\Програмиране\c\DataAndVariables\14. PrintASCII\obj\Debug\_14.PrintASCII.pdb
+C:\Програмиране\C#\DataAndVariables\14. PrintASCII\obj\Debug\_14.PrintASCII.exe
+C:\Програмиране\C#\DataAndVariables\14. PrintASCII\obj\Debug\_14.PrintASCII.pdb

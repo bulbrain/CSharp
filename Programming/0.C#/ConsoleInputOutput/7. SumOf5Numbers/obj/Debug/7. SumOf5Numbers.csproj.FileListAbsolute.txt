@@ -1,0 +1,7 @@
+C:\Програмиране\c\ConsoleInputOutput\7. SumOf5Numbers\bin\Debug\_7.SumOf5Numbers.exe
+C:\Програмиране\c\ConsoleInputOutput\7. SumOf5Numbers\bin\Debug\_7.SumOf5Numbers.pdb
+C:\Програмиране\c\ConsoleInputOutput\7. SumOf5Numbers\obj\Debug\_7.SumOf5Numbers.exe
+C:\Програмиране\c\ConsoleInputOutput\7. SumOf5Numbers\obj\Debug\_7.SumOf5Numbers.pdb
+C:\Програмиране\c\ConsoleInputOutput\7. SumOf5Numbers\obj\Debug\7. SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Програмиране\C#\ConsoleInputOutput\7. SumOf5Numbers\obj\Debug\_7.SumOf5Numbers.exe
+C:\Програмиране\C#\ConsoleInputOutput\7. SumOf5Numbers\obj\Debug\_7.SumOf5Numbers.pdb

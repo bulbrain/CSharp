@@ -1,0 +1,7 @@
+C:\Програмиране\c\Loops\3. MinMaxAndSumOfNNumbers\bin\Debug\_3.MinMaxAndSumOfNNumbers.exe
+C:\Програмиране\c\Loops\3. MinMaxAndSumOfNNumbers\bin\Debug\_3.MinMaxAndSumOfNNumbers.pdb
+C:\Програмиране\c\Loops\3. MinMaxAndSumOfNNumbers\obj\Debug\_3.MinMaxAndSumOfNNumbers.exe
+C:\Програмиране\c\Loops\3. MinMaxAndSumOfNNumbers\obj\Debug\_3.MinMaxAndSumOfNNumbers.pdb
+C:\Програмиране\c\Loops\3. MinMaxAndSumOfNNumbers\obj\Debug\3. MinMaxAndSumOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Програмиране\C#\Loops\3. MinMaxAndSumOfNNumbers\obj\Debug\_3.MinMaxAndSumOfNNumbers.exe
+C:\Програмиране\C#\Loops\3. MinMaxAndSumOfNNumbers\obj\Debug\_3.MinMaxAndSumOfNNumbers.pdb

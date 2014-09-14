@@ -1,0 +1,5 @@
+C:\Програмиране\c\Loops\12. Randomize1ToN\bin\Debug\_12.Randomize1ToN.exe
+C:\Програмиране\c\Loops\12. Randomize1ToN\bin\Debug\_12.Randomize1ToN.pdb
+C:\Програмиране\c\Loops\12. Randomize1ToN\obj\Debug\12. Randomize1ToN.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\Loops\12. Randomize1ToN\obj\Debug\_12.Randomize1ToN.exe
+C:\Програмиране\c\Loops\12. Randomize1ToN\obj\Debug\_12.Randomize1ToN.pdb

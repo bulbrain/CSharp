@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\3. HexadecimalVariable\bin\Debug\_3.HexadecimalVariable.exe
+C:\Програмиране\c\DataAndVariables\3. HexadecimalVariable\bin\Debug\_3.HexadecimalVariable.pdb
+C:\Програмиране\c\DataAndVariables\3. HexadecimalVariable\obj\Debug\_3.HexadecimalVariable.exe
+C:\Програмиране\c\DataAndVariables\3. HexadecimalVariable\obj\Debug\_3.HexadecimalVariable.pdb
+C:\Програмиране\C#\DataAndVariables\3. HexadecimalVariable\obj\Debug\_3.HexadecimalVariable.exe
+C:\Програмиране\C#\DataAndVariables\3. HexadecimalVariable\obj\Debug\_3.HexadecimalVariable.pdb

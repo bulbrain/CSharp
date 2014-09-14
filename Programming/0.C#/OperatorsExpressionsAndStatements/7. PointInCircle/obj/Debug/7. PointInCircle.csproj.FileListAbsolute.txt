@@ -1,0 +1,7 @@
+C:\Програмиране\c\OperatorsExpressionsAndStatements\7. PointInCircle\bin\Debug\_7.PointInCircle.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\7. PointInCircle\bin\Debug\_7.PointInCircle.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\7. PointInCircle\obj\Debug\_7.PointInCircle.exe
+C:\Програмиране\c\OperatorsExpressionsAndStatements\7. PointInCircle\obj\Debug\_7.PointInCircle.pdb
+C:\Програмиране\c\OperatorsExpressionsAndStatements\7. PointInCircle\obj\Debug\7. PointInCircle.csprojResolveAssemblyReference.cache
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\7. PointInCircle\obj\Debug\_7.PointInCircle.exe
+C:\Програмиране\C#\OperatorsExpressionsAndStatements\7. PointInCircle\obj\Debug\_7.PointInCircle.pdb

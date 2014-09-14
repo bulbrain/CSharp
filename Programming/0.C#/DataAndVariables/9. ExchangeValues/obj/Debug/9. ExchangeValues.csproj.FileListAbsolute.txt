@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\9. ExchangeValues\bin\Debug\_9.ExchangeValues.exe
+C:\Програмиране\c\DataAndVariables\9. ExchangeValues\bin\Debug\_9.ExchangeValues.pdb
+C:\Програмиране\c\DataAndVariables\9. ExchangeValues\obj\Debug\_9.ExchangeValues.exe
+C:\Програмиране\c\DataAndVariables\9. ExchangeValues\obj\Debug\_9.ExchangeValues.pdb
+C:\Програмиране\C#\DataAndVariables\9. ExchangeValues\obj\Debug\_9.ExchangeValues.exe
+C:\Програмиране\C#\DataAndVariables\9. ExchangeValues\obj\Debug\_9.ExchangeValues.pdb

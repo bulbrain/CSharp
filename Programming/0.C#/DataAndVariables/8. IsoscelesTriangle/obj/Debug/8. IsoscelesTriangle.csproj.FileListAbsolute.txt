@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\8. IsoscelesTriangle\bin\Debug\_8.IsoscelesTriangle.exe
+C:\Програмиране\c\DataAndVariables\8. IsoscelesTriangle\bin\Debug\_8.IsoscelesTriangle.pdb
+C:\Програмиране\c\DataAndVariables\8. IsoscelesTriangle\obj\Debug\_8.IsoscelesTriangle.exe
+C:\Програмиране\c\DataAndVariables\8. IsoscelesTriangle\obj\Debug\_8.IsoscelesTriangle.pdb
+C:\Програмиране\C#\DataAndVariables\8. IsoscelesTriangle\obj\Debug\_8.IsoscelesTriangle.exe
+C:\Програмиране\C#\DataAndVariables\8. IsoscelesTriangle\obj\Debug\_8.IsoscelesTriangle.pdb

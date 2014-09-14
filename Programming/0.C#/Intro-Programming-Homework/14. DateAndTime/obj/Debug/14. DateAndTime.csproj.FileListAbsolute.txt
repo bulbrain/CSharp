@@ -1,0 +1,7 @@
+C:\Програмиране\c\Intro-Programming-Homework\14. DateAndTime\bin\Debug\_14.DateAndTime.exe
+C:\Програмиране\c\Intro-Programming-Homework\14. DateAndTime\bin\Debug\_14.DateAndTime.pdb
+C:\Програмиране\c\Intro-Programming-Homework\14. DateAndTime\obj\Debug\_14.DateAndTime.exe
+C:\Програмиране\c\Intro-Programming-Homework\14. DateAndTime\obj\Debug\_14.DateAndTime.pdb
+C:\Програмиране\c\Intro-Programming-Homework\14. DateAndTime\obj\Debug\14. DateAndTime.csprojResolveAssemblyReference.cache
+C:\Програмиране\C#\Intro-Programming-Homework\14. DateAndTime\obj\Debug\_14.DateAndTime.exe
+C:\Програмиране\C#\Intro-Programming-Homework\14. DateAndTime\obj\Debug\_14.DateAndTime.pdb

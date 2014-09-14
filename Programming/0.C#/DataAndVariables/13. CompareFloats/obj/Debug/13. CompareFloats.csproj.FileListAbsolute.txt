@@ -1,0 +1,6 @@
+C:\Програмиране\c\DataAndVariables\13. CompareFloats\bin\Debug\_13.CompareFloats.exe
+C:\Програмиране\c\DataAndVariables\13. CompareFloats\bin\Debug\_13.CompareFloats.pdb
+C:\Програмиране\c\DataAndVariables\13. CompareFloats\obj\Debug\_13.CompareFloats.exe
+C:\Програмиране\c\DataAndVariables\13. CompareFloats\obj\Debug\_13.CompareFloats.pdb
+C:\Програмиране\C#\DataAndVariables\13. CompareFloats\obj\Debug\_13.CompareFloats.exe
+C:\Програмиране\C#\DataAndVariables\13. CompareFloats\obj\Debug\_13.CompareFloats.pdb

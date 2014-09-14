@@ -1,0 +1,5 @@
+C:\Програмиране\c\Loops\18. TrailingZeroes\bin\Debug\_18.TrailingZeroes.exe
+C:\Програмиране\c\Loops\18. TrailingZeroes\bin\Debug\_18.TrailingZeroes.pdb
+C:\Програмиране\c\Loops\18. TrailingZeroes\obj\Debug\18. TrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\Loops\18. TrailingZeroes\obj\Debug\_18.TrailingZeroes.exe
+C:\Програмиране\c\Loops\18. TrailingZeroes\obj\Debug\_18.TrailingZeroes.pdb
