@@ -1,0 +1,7 @@
+C:\Програмиране\c\ConditionalStatement\1. ExchangeIfGreater\bin\Debug\_1.ExchangeIfGreater.exe
+C:\Програмиране\c\ConditionalStatement\1. ExchangeIfGreater\bin\Debug\_1.ExchangeIfGreater.pdb
+C:\Програмиране\c\ConditionalStatement\1. ExchangeIfGreater\obj\Debug\1. ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Програмиране\c\ConditionalStatement\1. ExchangeIfGreater\obj\Debug\_1.ExchangeIfGreater.exe
+C:\Програмиране\c\ConditionalStatement\1. ExchangeIfGreater\obj\Debug\_1.ExchangeIfGreater.pdb
+C:\Програмиране\C#\ConditionalStatement\1. ExchangeIfGreater\obj\Debug\_1.ExchangeIfGreater.exe
+C:\Програмиране\C#\ConditionalStatement\1. ExchangeIfGreater\obj\Debug\_1.ExchangeIfGreater.pdb

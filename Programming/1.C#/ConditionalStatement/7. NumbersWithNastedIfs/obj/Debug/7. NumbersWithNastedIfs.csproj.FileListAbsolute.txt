@@ -1,0 +1,6 @@
+C:\Програмиране\c\ConditionalStatement\7. NumbersWithNastedIfs\bin\Debug\_7.NumbersWithNastedIfs.exe
+C:\Програмиране\c\ConditionalStatement\7. NumbersWithNastedIfs\bin\Debug\_7.NumbersWithNastedIfs.pdb
+C:\Програмиране\c\ConditionalStatement\7. NumbersWithNastedIfs\obj\Debug\_7.NumbersWithNastedIfs.exe
+C:\Програмиране\c\ConditionalStatement\7. NumbersWithNastedIfs\obj\Debug\_7.NumbersWithNastedIfs.pdb
+C:\Програмиране\C#\ConditionalStatement\7. NumbersWithNastedIfs\obj\Debug\_7.NumbersWithNastedIfs.exe
+C:\Програмиране\C#\ConditionalStatement\7. NumbersWithNastedIfs\obj\Debug\_7.NumbersWithNastedIfs.pdb

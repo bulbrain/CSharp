@@ -1,0 +1,6 @@
+C:\Програмиране\c\ConditionalStatement\9. IntDoubleAndString\bin\Debug\_9.IntDoubleAndString.exe
+C:\Програмиране\c\ConditionalStatement\9. IntDoubleAndString\bin\Debug\_9.IntDoubleAndString.pdb
+C:\Програмиране\c\ConditionalStatement\9. IntDoubleAndString\obj\Debug\_9.IntDoubleAndString.exe
+C:\Програмиране\c\ConditionalStatement\9. IntDoubleAndString\obj\Debug\_9.IntDoubleAndString.pdb
+C:\Програмиране\C#\ConditionalStatement\9. IntDoubleAndString\obj\Debug\_9.IntDoubleAndString.exe
+C:\Програмиране\C#\ConditionalStatement\9. IntDoubleAndString\obj\Debug\_9.IntDoubleAndString.pdb

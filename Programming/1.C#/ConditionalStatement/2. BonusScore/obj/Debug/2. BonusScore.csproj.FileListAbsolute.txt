@@ -1,0 +1,6 @@
+C:\Програмиране\c\ConditionalStatement\2. BonusScore\bin\Debug\_2.BonusScore.exe
+C:\Програмиране\c\ConditionalStatement\2. BonusScore\bin\Debug\_2.BonusScore.pdb
+C:\Програмиране\c\ConditionalStatement\2. BonusScore\obj\Debug\_2.BonusScore.exe
+C:\Програмиране\c\ConditionalStatement\2. BonusScore\obj\Debug\_2.BonusScore.pdb
+C:\Програмиране\C#\ConditionalStatement\2. BonusScore\obj\Debug\_2.BonusScore.exe
+C:\Програмиране\C#\ConditionalStatement\2. BonusScore\obj\Debug\_2.BonusScore.pdb
