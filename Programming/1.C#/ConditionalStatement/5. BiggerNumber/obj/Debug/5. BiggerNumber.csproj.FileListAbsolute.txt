@@ -1,6 +1,0 @@
-C:\Програмиране\c\ConditionalStatement\5. BiggerNumber\bin\Debug\_5.BiggerNumber.exe
-C:\Програмиране\c\ConditionalStatement\5. BiggerNumber\bin\Debug\_5.BiggerNumber.pdb
-C:\Програмиране\c\ConditionalStatement\5. BiggerNumber\obj\Debug\_5.BiggerNumber.exe
-C:\Програмиране\c\ConditionalStatement\5. BiggerNumber\obj\Debug\_5.BiggerNumber.pdb
-C:\Програмиране\C#\ConditionalStatement\5. BiggerNumber\obj\Debug\_5.BiggerNumber.exe
-C:\Програмиране\C#\ConditionalStatement\5. BiggerNumber\obj\Debug\_5.BiggerNumber.pdb
