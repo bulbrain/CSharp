@@ -1,13 +1,16 @@
-﻿// Write a program that reads 3 real numbers from the console and prints their sum.
+// Write a program that reads 3 real numbers from the console and prints their sum.
 using System;
 
 class SumOfNumbers
 {
     static void Main()
     {
-        for (int i = 0; i < 100000; i++)
+        int sum = 0;
+        for (int i = 0; i < 3; i++)
         {
-            Console.WriteLine(i + " Mikel carapene");
+            Console.WriteLine("Insert a number:");
+            sum += int.Parse(Console.ReadLine());
         }
+        Console.WriteLine(sum);
     }
 }
