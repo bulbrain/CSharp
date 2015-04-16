@@ -1,0 +1,141 @@
+using System;
+
+namespace _11.NumberAsWords
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Number - Number as words");
+            for (int i = 0; i < 1000; i++)
+            {
+                if (i == 0)
+                {
+                    Console.WriteLine("0        Zero");
+                }
+                else if (i < 10)
+                {
+                    Console.WriteLine(i + "        " + ZeroToTwenty(i));
+                }
+                else if (i < 20)
+                {
+                    Console.WriteLine(i + "       " + ZeroToTwenty(i));
+                }
+                else if (i < 100)
+                {
+                    int firstDigit = i/10;
+                    int secondDigit = i%10;
+                    Console.Write(i + "       " + TwentyToNintyNine(firstDigit) + " ");
+                    Console.Write(ZeroToTwenty(secondDigit).ToLower());
+                    Console.WriteLine();
+                }
+                else
+                {
+                    int firstDigit = i / 100;
+                    int j = i % 100;
+                    Console.Write(i + "      " + ZeroToTwenty(firstDigit) + " hundred ");
+                    if (j%100 != 0)
+                    {
+                        Console.Write("and ");
+                    }
+                    if (j < 20)
+                    {
+                        Console.WriteLine(ZeroToTwenty(j).ToLower());
+                    }
+                    else if (j < 100)
+                    {
+                        int sfirstDigit = j / 10;
+                        int secondDigit = j % 10;
+                        Console.Write(TwentyToNintyNine(sfirstDigit).ToLower() + " ");
+                        Console.Write(ZeroToTwenty(secondDigit).ToLower());
+                        Console.WriteLine();
+                    }
+                }
+            }
+            Console.ReadLine();
+        }
+
+        public static string ZeroToTwenty(int num)
+        {
+            string result;
+            switch (num)
+            {
+                case 1: result = "One";
+                    break;
+                case 2: result = "Two";
+                    break;
+                case 3: result = "Three";
+                    break;
+                case 4: result = "Four";
+                    break;
+                case 5: result = "Five";
+                    break;
+                case 6: result = "Six";
+                    break;
+                case 7: result = "Seven";
+                    break;
+                case 8: result = "Eight";
+                    break;
+                case 9: result = "Nine";
+                    break;
+                case 10: result = "Ten";
+                    break;
+                case 11: result = "Eleven";
+                    break;
+                case 12: result = "Twelve";
+                    break;
+                case 13: result = "Thirteen";
+                    break;
+                case 14: result = "Fourteen";
+                    break;
+                case 15: result = "Fifteen";
+                    break;
+                case 16: result = "Sixteen";
+                    break;
+                case 17: result = "Seventeen";
+                    break;
+                case 18: result = "Eighteen";
+                    break;
+                case 19: result = "Nineteen";
+                    break;
+                default:
+                    result = "";
+                    break;
+            }
+            return result;
+        }
+
+        public static string TwentyToNintyNine(int num)
+        {
+            string result = null;
+            switch (num)
+            {
+                case 2:
+                    result = "Twenty";
+                    break;
+                case 3:
+                    result = "Thirty";
+                    break;
+                case 4:
+                    result = "Forty";
+                    break;
+                case 5:
+                    result = "Fifty";
+                    break;
+                case 6:
+                    result = "Sixty";
+                    break;
+                case 7:
+                    result = "Seventy";
+                    break;
+                case 8:
+                    result = "Eighty";
+                    break;
+                case 9:
+                    result = "Ninety";
+                    break;
+            }
+            return result;
+        }
+    }
+}
